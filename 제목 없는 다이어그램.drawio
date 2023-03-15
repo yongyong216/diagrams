@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-15T01:55:06.937Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="VtS3VoTVBpc0B8_UPC1D" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-15T03:35:29.611Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="Eldy3D6oIkGa9iYXEVLy" version="21.0.6" type="github">
   <diagram name="페이지-1" id="l79hUrKTXK1C4NnOyxBR">
     <mxGraphModel dx="1434" dy="1933" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -619,6 +619,77 @@
         </mxCell>
         <mxCell id="rN_voGvL153HVdvRliYI-181" value="&lt;h1 style=&quot;line-height: 60%;&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;존재하는 열차 변수 부터 실제&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;/h1&gt;&lt;h1 style=&quot;line-height: 60%;&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;서비스 로직이다.&lt;/font&gt;&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1450" y="950" width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="rN_voGvL153HVdvRliYI-192" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rN_voGvL153HVdvRliYI-182" target="rN_voGvL153HVdvRliYI-183">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1800" y="130" />
+              <mxPoint x="1800" y="130" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rN_voGvL153HVdvRliYI-182" value="시작" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1720" y="70" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="rN_voGvL153HVdvRliYI-188" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rN_voGvL153HVdvRliYI-183" target="rN_voGvL153HVdvRliYI-184">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rN_voGvL153HVdvRliYI-183" value="예약 번호" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1710" y="160" width="180" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="rN_voGvL153HVdvRliYI-186" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rN_voGvL153HVdvRliYI-184" target="rN_voGvL153HVdvRliYI-185">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rN_voGvL153HVdvRliYI-194" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rN_voGvL153HVdvRliYI-184" target="rN_voGvL153HVdvRliYI-193">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rN_voGvL153HVdvRliYI-184" value="예약 번호가&lt;br&gt;빈값이 아닌지?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1720" y="240" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="rN_voGvL153HVdvRliYI-187" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rN_voGvL153HVdvRliYI-185" target="rN_voGvL153HVdvRliYI-183">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1610" y="183" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rN_voGvL153HVdvRliYI-185" value="예약번호를 입력하세요" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="1540" y="240" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="rN_voGvL153HVdvRliYI-204" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rN_voGvL153HVdvRliYI-193" target="rN_voGvL153HVdvRliYI-195">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rN_voGvL153HVdvRliYI-193" value="예약 정보를 저장할 변수" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1720" y="320" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rN_voGvL153HVdvRliYI-195" value="index; index &amp;lt; reservaions.length; index++" style="swimlane;whiteSpace=wrap;html=1;align=right;" vertex="1" parent="1">
+          <mxGeometry x="1640" y="400" width="320" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="rN_voGvL153HVdvRliYI-203" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="rN_voGvL153HVdvRliYI-195" source="rN_voGvL153HVdvRliYI-196" target="rN_voGvL153HVdvRliYI-197">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rN_voGvL153HVdvRliYI-196" value="해당 인덱스의&lt;br&gt;예약정보 가져오기" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="rN_voGvL153HVdvRliYI-195">
+          <mxGeometry x="80" y="40" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rN_voGvL153HVdvRliYI-201" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="rN_voGvL153HVdvRliYI-195" source="rN_voGvL153HVdvRliYI-197" target="rN_voGvL153HVdvRliYI-198">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rN_voGvL153HVdvRliYI-202" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="rN_voGvL153HVdvRliYI-195" source="rN_voGvL153HVdvRliYI-197">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="40" y="40" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rN_voGvL153HVdvRliYI-197" value="입력한 예약 번호와 해당 예약정보의 예약 번호가 같은지?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="rN_voGvL153HVdvRliYI-195">
+          <mxGeometry x="80" y="120" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="rN_voGvL153HVdvRliYI-198" value="예약 정보 변수에 해당 예약 정보 저장" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="rN_voGvL153HVdvRliYI-195">
+          <mxGeometry x="80" y="200" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rN_voGvL153HVdvRliYI-199" value="예약 정보 출력" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="1730" y="720" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="rN_voGvL153HVdvRliYI-200" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.571;entryY=0.02;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="rN_voGvL153HVdvRliYI-198" target="rN_voGvL153HVdvRliYI-199">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
