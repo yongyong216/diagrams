@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-15T03:35:29.611Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="Eldy3D6oIkGa9iYXEVLy" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-15T03:46:04.324Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="JYgGeu5B_eB2vMBRI5F8" version="21.0.6" type="github">
   <diagram name="페이지-1" id="l79hUrKTXK1C4NnOyxBR">
     <mxGraphModel dx="1434" dy="1933" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -685,11 +685,23 @@
         <mxCell id="rN_voGvL153HVdvRliYI-198" value="예약 정보 변수에 해당 예약 정보 저장" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="rN_voGvL153HVdvRliYI-195">
           <mxGeometry x="80" y="200" width="160" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="rN_voGvL153HVdvRliYI-206" value="&lt;h1&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;Yes&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="rN_voGvL153HVdvRliYI-195">
+          <mxGeometry x="160" y="80" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rN_voGvL153HVdvRliYI-208" value="&lt;h1&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;NO&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="rN_voGvL153HVdvRliYI-195">
+          <mxGeometry x="40" y="110" width="30" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="rN_voGvL153HVdvRliYI-199" value="예약 정보 출력" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
           <mxGeometry x="1730" y="720" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="rN_voGvL153HVdvRliYI-200" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.571;entryY=0.02;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="rN_voGvL153HVdvRliYI-198" target="rN_voGvL153HVdvRliYI-199">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rN_voGvL153HVdvRliYI-205" value="&lt;h1&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;Yes&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1800" y="280" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rN_voGvL153HVdvRliYI-207" value="&lt;h1&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;NO&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1690" y="230" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
