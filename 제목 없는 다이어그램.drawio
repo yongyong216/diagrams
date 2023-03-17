@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-16T01:00:36.880Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="oankOZzB850eA1e2uAbB" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-17T06:38:52.331Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.69" etag="wxIeyKQYOGRHrv6JKapv" version="21.0.6" type="github">
   <diagram name="페이지-1" id="l79hUrKTXK1C4NnOyxBR">
-    <mxGraphModel dx="1434" dy="5445" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="907" dy="1777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -703,7 +703,7 @@
         <mxCell id="rN_voGvL153HVdvRliYI-207" value="&lt;h1&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;NO&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1690" y="230" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ZOaCRNhE9rpNHwOy0jyW-1" value="&lt;h1 style=&quot;&quot;&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;기차 예약&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 13px; border-color: var(--border-color);&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 13px; border-color: var(--border-color); font-weight: 400;&quot;&gt;3. 예약 번호를 입력하면 해당하는 예약 정보를 반환&lt;/div&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ZOaCRNhE9rpNHwOy0jyW-1" value="&lt;h1 style=&quot;&quot;&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;기차 예약&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 13px; border-color: var(--border-color);&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 13px; border-color: var(--border-color); font-weight: 400;&quot;&gt;3. 예약 번호를 입력하면 해당하는 예약 정보를 반환&lt;/div&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1392" width="340" height="100" as="geometry" />
         </mxCell>
       </root>
