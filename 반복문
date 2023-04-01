@@ -1,25 +1,25 @@
-<mxfile host="app.diagrams.net" modified="2023-03-28T14:25:58.549Z" agent="Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.54" etag="87eANnDXSpf6lx9O9qoE" version="21.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-01T05:51:42.515Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.54" etag="oQwnqTZEDggQiSx_0dXR" version="21.1.2" type="github">
   <diagram name="페이지-1" id="NEZFltzjuTmowK1Oq0dI">
-    <mxGraphModel dx="1189" dy="1639" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1137" dy="1827" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="6C8KCvvVc89xblI_zLZU-1" value="제어문을 쉽게 풀어쓰면&lt;br&gt;&lt;br&gt;&amp;nbsp;뭐해!?&lt;br&gt;이거해&lt;br&gt;저거해&lt;br&gt;요거하고&lt;br&gt;이거해서&lt;br&gt;요렇게 하고&lt;br&gt;저렇게 해&lt;br&gt;그게 되면&lt;br&gt;이렇게 해서&lt;br&gt;요렇게 하고&lt;br&gt;끝내!" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="6C8KCvvVc89xblI_zLZU-1" value="제어문을 쉽게 풀어쓰면&lt;br&gt;&lt;br&gt;&amp;nbsp;뭐해!?&lt;br&gt;이거해&lt;br&gt;저거해&lt;br&gt;요거하고&lt;br&gt;이거해서&lt;br&gt;요렇게 하고&lt;br&gt;저렇게 해&lt;br&gt;그게 되면&lt;br&gt;이렇게 해서&lt;br&gt;요렇게 하고&lt;br&gt;끝내!" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="40" y="30" width="160" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="6C8KCvvVc89xblI_zLZU-2" value="단순 IF 구문&amp;nbsp;&lt;br&gt;- 조건이 참이면 종속문장 또는 종속블록({...}) 실행 거짓이면 실행 안 함" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6C8KCvvVc89xblI_zLZU-2" value="단순 IF 구문&amp;nbsp;&lt;br&gt;- 조건이 참이면 종속문장 또는 종속블록({...}) 실행 거짓이면 실행 안 함" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="360" y="120" width="200" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="6C8KCvvVc89xblI_zLZU-4" value="if(논리형 조건식)&lt;br&gt;실행문;&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6C8KCvvVc89xblI_zLZU-4" value="if(논리형 조건식)&lt;br&gt;실행문;&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="240" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="6C8KCvvVc89xblI_zLZU-5" value="if(논리형 조건식){&lt;br&gt;실행문;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;br&gt;실행문;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;br&gt;.....&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;br&gt;}&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6C8KCvvVc89xblI_zLZU-5" value="if(논리형 조건식){&lt;br&gt;실행문;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;br&gt;실행문;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;br&gt;.....&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;br&gt;}&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="290" width="160" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="6C8KCvvVc89xblI_zLZU-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.45;entryY=-0.083;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="6C8KCvvVc89xblI_zLZU-6" target="6C8KCvvVc89xblI_zLZU-7">
+        <mxCell id="6C8KCvvVc89xblI_zLZU-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.45;entryY=-0.083;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="6C8KCvvVc89xblI_zLZU-6" target="6C8KCvvVc89xblI_zLZU-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6C8KCvvVc89xblI_zLZU-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6C8KCvvVc89xblI_zLZU-6">
+        <mxCell id="6C8KCvvVc89xblI_zLZU-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6C8KCvvVc89xblI_zLZU-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="590" y="390" as="targetPoint" />
             <Array as="points">
@@ -28,43 +28,43 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="6C8KCvvVc89xblI_zLZU-6" value="조건식" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6C8KCvvVc89xblI_zLZU-6" value="조건식" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="520" y="250" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="6C8KCvvVc89xblI_zLZU-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6C8KCvvVc89xblI_zLZU-7" target="6C8KCvvVc89xblI_zLZU-8">
+        <mxCell id="6C8KCvvVc89xblI_zLZU-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="6C8KCvvVc89xblI_zLZU-7" target="6C8KCvvVc89xblI_zLZU-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6C8KCvvVc89xblI_zLZU-7" value="종속문장&lt;br&gt;또는 { }" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6C8KCvvVc89xblI_zLZU-7" value="종속문장&lt;br&gt;또는 { }" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="520" y="320" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="6C8KCvvVc89xblI_zLZU-8" value="다음문장" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6C8KCvvVc89xblI_zLZU-8" value="다음문장" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="520" y="400" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="6C8KCvvVc89xblI_zLZU-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="6C8KCvvVc89xblI_zLZU-6" target="6C8KCvvVc89xblI_zLZU-6">
+        <mxCell id="6C8KCvvVc89xblI_zLZU-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="6C8KCvvVc89xblI_zLZU-6" target="6C8KCvvVc89xblI_zLZU-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6C8KCvvVc89xblI_zLZU-15" value="참" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="6C8KCvvVc89xblI_zLZU-15" value="참" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="570" y="290" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="6C8KCvvVc89xblI_zLZU-16" value="거짓" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="6C8KCvvVc89xblI_zLZU-16" value="거짓" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="630" y="240" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="6C8KCvvVc89xblI_zLZU-17" value="&lt;h1&gt;제어문 사용시 주의 사항&lt;/h1&gt;&lt;div&gt;&lt;font color=&quot;#ff0000&quot;&gt;제어문 조건은 true/false이어야 한다.&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="6C8KCvvVc89xblI_zLZU-17" value="&lt;h1&gt;제어문 사용시 주의 사항&lt;/h1&gt;&lt;div&gt;&lt;font color=&quot;#ff0000&quot;&gt;제어문 조건은 true/false이어야 한다.&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="340" width="280" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="6C8KCvvVc89xblI_zLZU-18" value="if~else 구문&lt;br&gt;if문의 조건이 참이면 if의 종속문장 실행&lt;br&gt;if문의 조건이 거짓이면 else의 종속문장 실행&lt;br&gt;둘 중 하나만 실행된다.&lt;br&gt;&lt;br&gt;ex) 배고픈 사람 오른손 드세요.&lt;br&gt;아니면 왼손을 드세요." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6C8KCvvVc89xblI_zLZU-18" value="if~else 구문&lt;br&gt;if문의 조건이 참이면 if의 종속문장 실행&lt;br&gt;if문의 조건이 거짓이면 else의 종속문장 실행&lt;br&gt;둘 중 하나만 실행된다.&lt;br&gt;&lt;br&gt;ex) 배고픈 사람 오른손 드세요.&lt;br&gt;아니면 왼손을 드세요." style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="320" y="480" width="240" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="6C8KCvvVc89xblI_zLZU-19" value="if(논리형 조건식)&lt;br&gt;실행문;&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;br&gt;else&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;br&gt;실행문;&amp;nbsp; &amp;nbsp; &amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6C8KCvvVc89xblI_zLZU-19" value="if(논리형 조건식)&lt;br&gt;실행문;&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;br&gt;else&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;br&gt;실행문;&amp;nbsp; &amp;nbsp; &amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="275" y="640" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="6C8KCvvVc89xblI_zLZU-20" value="if(논리형 조건식){&lt;br&gt;실행문;&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;br&gt;실행문;&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;br&gt;...&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;br&gt;}&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;br&gt;else {&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;br&gt;실행문;&amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;br&gt;실행문;&amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;br&gt;...&lt;br&gt;}&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6C8KCvvVc89xblI_zLZU-20" value="if(논리형 조건식){&lt;br&gt;실행문;&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;br&gt;실행문;&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;br&gt;...&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;br&gt;}&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;br&gt;else {&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;br&gt;실행문;&amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;br&gt;실행문;&amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;br&gt;...&lt;br&gt;}&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="275" y="730" width="160" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="6C8KCvvVc89xblI_zLZU-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.45;entryY=-0.083;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="6C8KCvvVc89xblI_zLZU-23" target="6C8KCvvVc89xblI_zLZU-25">
+        <mxCell id="6C8KCvvVc89xblI_zLZU-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.45;entryY=-0.083;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="6C8KCvvVc89xblI_zLZU-23" target="6C8KCvvVc89xblI_zLZU-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6C8KCvvVc89xblI_zLZU-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6C8KCvvVc89xblI_zLZU-23" target="6C8KCvvVc89xblI_zLZU-31">
+        <mxCell id="6C8KCvvVc89xblI_zLZU-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="6C8KCvvVc89xblI_zLZU-23" target="6C8KCvvVc89xblI_zLZU-31" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="645" y="780" as="targetPoint" />
             <Array as="points">
@@ -73,10 +73,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="6C8KCvvVc89xblI_zLZU-23" value="조건식" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6C8KCvvVc89xblI_zLZU-23" value="조건식" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="515" y="640" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="6C8KCvvVc89xblI_zLZU-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6C8KCvvVc89xblI_zLZU-25" target="6C8KCvvVc89xblI_zLZU-26">
+        <mxCell id="6C8KCvvVc89xblI_zLZU-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="6C8KCvvVc89xblI_zLZU-25" target="6C8KCvvVc89xblI_zLZU-26" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="495" y="730" />
@@ -84,59 +84,59 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="6C8KCvvVc89xblI_zLZU-25" value="종속문장&lt;br&gt;또는 { }" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6C8KCvvVc89xblI_zLZU-25" value="종속문장&lt;br&gt;또는 { }" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="515" y="710" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="6C8KCvvVc89xblI_zLZU-26" value="다음문장" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6C8KCvvVc89xblI_zLZU-26" value="다음문장" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="515" y="840" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="6C8KCvvVc89xblI_zLZU-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="6C8KCvvVc89xblI_zLZU-23" target="6C8KCvvVc89xblI_zLZU-23">
+        <mxCell id="6C8KCvvVc89xblI_zLZU-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="6C8KCvvVc89xblI_zLZU-23" target="6C8KCvvVc89xblI_zLZU-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6C8KCvvVc89xblI_zLZU-28" value="참" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="6C8KCvvVc89xblI_zLZU-28" value="참" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="565" y="700" width="60" as="geometry" />
         </mxCell>
-        <mxCell id="6C8KCvvVc89xblI_zLZU-29" value="거짓" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="6C8KCvvVc89xblI_zLZU-29" value="거짓" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="625" y="630" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="6C8KCvvVc89xblI_zLZU-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6C8KCvvVc89xblI_zLZU-31" target="6C8KCvvVc89xblI_zLZU-26">
+        <mxCell id="6C8KCvvVc89xblI_zLZU-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="6C8KCvvVc89xblI_zLZU-31" target="6C8KCvvVc89xblI_zLZU-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6C8KCvvVc89xblI_zLZU-31" value="else 종속문장&lt;br&gt;또는 { }" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6C8KCvvVc89xblI_zLZU-31" value="else 종속문장&lt;br&gt;또는 { }" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="515" y="770" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="6C8KCvvVc89xblI_zLZU-34" value="다중 if 구문&lt;br&gt;if~else if ~&lt;br&gt;여러 조건을 연결하여 참인 경우의 종속문장만 실행&lt;br&gt;마지막 else는 필요에 따라 사용 또는 미사용 할 수 있음" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6C8KCvvVc89xblI_zLZU-34" value="다중 if 구문&lt;br&gt;if~else if ~&lt;br&gt;여러 조건을 연결하여 참인 경우의 종속문장만 실행&lt;br&gt;마지막 else는 필요에 따라 사용 또는 미사용 할 수 있음" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="360" y="1000" width="320" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="6C8KCvvVc89xblI_zLZU-35" value="if(논리형 조건식)&lt;br&gt;실행문;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;br&gt;else if(논리형 조건식)&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;br&gt;실행문;&amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;br&gt;else if(논리형 조건식)&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;실행문;&amp;nbsp;&lt;br&gt;.......&lt;br&gt;else if(논리형 조건식)&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;실행문;&amp;nbsp;&lt;br&gt;else&amp;nbsp; &amp;nbsp;//필요 시 사용&lt;br&gt;실행문;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6C8KCvvVc89xblI_zLZU-35" value="if(논리형 조건식)&lt;br&gt;실행문;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;br&gt;else if(논리형 조건식)&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;br&gt;실행문;&amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;br&gt;else if(논리형 조건식)&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;실행문;&amp;nbsp;&lt;br&gt;.......&lt;br&gt;else if(논리형 조건식)&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;실행문;&amp;nbsp;&lt;br&gt;else&amp;nbsp; &amp;nbsp;//필요 시 사용&lt;br&gt;실행문;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="1120" width="160" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="6C8KCvvVc89xblI_zLZU-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.564;entryY=0.008;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="6C8KCvvVc89xblI_zLZU-36" target="6C8KCvvVc89xblI_zLZU-37">
+        <mxCell id="6C8KCvvVc89xblI_zLZU-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.564;entryY=0.008;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="6C8KCvvVc89xblI_zLZU-36" target="6C8KCvvVc89xblI_zLZU-37" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6C8KCvvVc89xblI_zLZU-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6C8KCvvVc89xblI_zLZU-36" target="6C8KCvvVc89xblI_zLZU-40">
+        <mxCell id="6C8KCvvVc89xblI_zLZU-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="6C8KCvvVc89xblI_zLZU-36" target="6C8KCvvVc89xblI_zLZU-40" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6C8KCvvVc89xblI_zLZU-36" value="조건식1" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6C8KCvvVc89xblI_zLZU-36" value="조건식1" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="510" y="1120" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="6C8KCvvVc89xblI_zLZU-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6C8KCvvVc89xblI_zLZU-37" target="6C8KCvvVc89xblI_zLZU-41">
+        <mxCell id="6C8KCvvVc89xblI_zLZU-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="6C8KCvvVc89xblI_zLZU-37" target="6C8KCvvVc89xblI_zLZU-41" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="640" y="1180" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="6C8KCvvVc89xblI_zLZU-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.415;entryY=-0.078;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="6C8KCvvVc89xblI_zLZU-37" target="6C8KCvvVc89xblI_zLZU-42">
+        <mxCell id="6C8KCvvVc89xblI_zLZU-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.415;entryY=-0.078;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="6C8KCvvVc89xblI_zLZU-37" target="6C8KCvvVc89xblI_zLZU-42" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6C8KCvvVc89xblI_zLZU-37" value="조건식2" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6C8KCvvVc89xblI_zLZU-37" value="조건식2" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="660" y="1160" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="6C8KCvvVc89xblI_zLZU-39" value="다음문장" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6C8KCvvVc89xblI_zLZU-39" value="다음문장" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="590" y="1320" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="6C8KCvvVc89xblI_zLZU-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.422;entryY=-0.122;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="6C8KCvvVc89xblI_zLZU-40" target="6C8KCvvVc89xblI_zLZU-39">
+        <mxCell id="6C8KCvvVc89xblI_zLZU-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.422;entryY=-0.122;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="6C8KCvvVc89xblI_zLZU-40" target="6C8KCvvVc89xblI_zLZU-39" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="525" y="1300" />
@@ -144,16 +144,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="6C8KCvvVc89xblI_zLZU-40" value="문장1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6C8KCvvVc89xblI_zLZU-40" value="문장1" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="480" y="1240" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="6C8KCvvVc89xblI_zLZU-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.417;entryY=-0.056;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="6C8KCvvVc89xblI_zLZU-41" target="6C8KCvvVc89xblI_zLZU-39">
+        <mxCell id="6C8KCvvVc89xblI_zLZU-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.417;entryY=-0.056;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="6C8KCvvVc89xblI_zLZU-41" target="6C8KCvvVc89xblI_zLZU-39" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6C8KCvvVc89xblI_zLZU-41" value="문장2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6C8KCvvVc89xblI_zLZU-41" value="문장2" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="595" y="1240" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="6C8KCvvVc89xblI_zLZU-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6C8KCvvVc89xblI_zLZU-42">
+        <mxCell id="6C8KCvvVc89xblI_zLZU-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6C8KCvvVc89xblI_zLZU-42" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="640" y="1320" as="targetPoint" />
             <Array as="points">
@@ -162,19 +162,19 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="6C8KCvvVc89xblI_zLZU-42" value="문장3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6C8KCvvVc89xblI_zLZU-42" value="문장3" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="710" y="1240" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="6C8KCvvVc89xblI_zLZU-53" value="거짓" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="6C8KCvvVc89xblI_zLZU-53" value="거짓" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="640" y="1110" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="6C8KCvvVc89xblI_zLZU-54" value="거짓" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="6C8KCvvVc89xblI_zLZU-54" value="거짓" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="710" y="1200" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="6C8KCvvVc89xblI_zLZU-55" value="참" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="6C8KCvvVc89xblI_zLZU-55" value="참" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="610" y="1150" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="6C8KCvvVc89xblI_zLZU-56" value="참" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="6C8KCvvVc89xblI_zLZU-56" value="참" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="515" y="1170" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
